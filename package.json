@@ -1,0 +1,27 @@
+{
+  "name": "zhoukao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhen0917/zhoukao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhen0917/zhoukao/issues"
+  },
+  "homepage": "https://github.com/lizhen0917/zhoukao#readme",
+  "devDependencies": {
+    "gulp-clean-css": "^3.9.4",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
